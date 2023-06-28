@@ -55,6 +55,13 @@ In the counting chart I can see that not a lot people died. it is 50-70. In the 
   
 ## Numerical results
 
+```{r}
+table1 <- xtabs(~result + Sex,data=kRdata)
+rowPerc(table1)
+colPerc(table1)
+```
+
+In the percentage I can see that more females are alive with the differenc of 12%. Of all people that are dead 36% is female and 64% are male. In the second chart I see that females are 98.7% alive and males are only 97. In the dead % female were 1.4% and males are 3%. 
 
 ## Inferential results 
 
