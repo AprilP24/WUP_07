@@ -74,4 +74,4 @@ fisher.test(table1)
 In the group of 1831Female were alive and 1411male were alive. All im all more female are alive than male. The p value is 1 out of a thousand in the Chi-square. it is a small chance to get male and female dying. In Fisher's test 9 out of 10,000 they are about the same p value. You can also see the odds ratio of. The odds of female living against the odds of male dying. We want to know that the odds of this is happening.
 
 ## Conclusions
-
+In the lesson I learned how to create a ggplot with the helper file. I change the class for result and how to name the project kRdata. I was also able to create a numerical graph in % and counting. Also run a Chi-square test and a fisher's test and both are equal in p value. The final result : that we wanted to figure out was all in all males are the ones who suffered more during this study. In which showed that Females had an advantage over males.
