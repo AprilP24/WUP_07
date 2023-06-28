@@ -65,8 +65,13 @@ In the percentage I can see that more females are alive with the differenc of 12
 
 ## Inferential results 
 
+```{r}
+chisq.test(table1)
+chisqtestGC(table1)
+fisher.test(table1)
+```
 
-
+In the group of 1831Female were alive and 1411male were alive. All im all more female are alive than male. The p value is 1 out of a thousand in the Chi-square. it is a small chance to get male and female dying. In Fisher's test 9 out of 10,000 they are about the same p value. You can also see the odds ratio of. The odds of female living against the odds of male dying. We want to know that the odds of this is happening.
 
 ## Conclusions
 
